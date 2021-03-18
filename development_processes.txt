@@ -17,6 +17,8 @@ gitting
 setting and maintaining transportability
 setting and maintaining co-functionality
 setting and maintaining development environment
+adapting to coding environment (data storage, input, output, library, language,
+project structure)
 
 
 main process > planning and documenting:
