@@ -1,0 +1,6 @@
+main processes:
+
+testing
+coding
+refactoring
+logging
