@@ -1,6 +1,13 @@
 main processes:
 
+planning documenting
 testing
-coding
-refactoring
+coding and refactoring
 logging
+
+sub processes:
+
+gitting
+setting and maintaining transportability
+setting and maintaining co-functionality
+setting maintaining development environment
