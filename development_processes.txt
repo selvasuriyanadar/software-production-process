@@ -2,6 +2,8 @@ Independent processes:
 
 designing
 deep analysis
+security and performance
+product management*
 
 main processes:
 
@@ -17,8 +19,9 @@ gitting
 setting and maintaining transportability
 setting and maintaining co-functionality
 setting and maintaining development environment
-adapting to coding environment (data storage, input, output, library, language,
+adapting to coding environment (data storage, input-output, library, language,
 project structure)
+security measures
 
 
 main process > planning and documenting:
@@ -53,8 +56,8 @@ finding logical errors
 
 note: * at the ending of any line means that the process requires the product
 manager and all others primarily requires the developers(except the independent
-processes, which may be done by specialists such as data scientists, designers
-in addition to the developers).
+processes, which may be done by specialists such as data scientists, designers,
+system engineers in addition to the developers).
 note: main processes all together involve in developing any piece of an app.
 note: sub processes are considered project specific constants that shall be
 followed mostly during the initialisation or at the end of the project
