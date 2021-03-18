@@ -1,13 +1,64 @@
+Independent processes:
+
+designing
+deep analysis
+
 main processes:
 
-planning documenting
-testing
+planning and documenting*
+testing*
 coding and refactoring
 logging
+debugging
 
 sub processes:
 
 gitting
 setting and maintaining transportability
 setting and maintaining co-functionality
-setting maintaining development environment
+setting and maintaining development environment
+
+
+main process > coding and refactoring:
+
+writting tests
+transfering knowledge into code
+styling the code
+structuring the code
+enabling logging
+fixing bugs
+--others--
+transfering design into code
+
+main process > testing:
+
+satisfying user requirements*
+proofing the code logic
+
+main process > planning and documenting:
+
+getting and storing the user requirements*
+doing and writing down analysis, problem solving
+
+main process > logging:
+
+tracking the computing processes
+tracking the application usage
+
+main process > debugging:
+
+finding language or environment related errors
+finding logical errors
+
+
+note: * at the ending of any line means that the process requires the product
+manager and all others primarily requires the developers(except the independent
+processes, which may be done by specialists such as data scientists, designers
+in addition to the developers).
+note: main processes all together involve in developing any piece of an app.
+note: sub processes are considered project specific constants that shall be
+followed mostly during the initialisation or at the end of the project
+development.
+note: independent processes are considered to be done and can influence the
+project development at any point during the development.
+
