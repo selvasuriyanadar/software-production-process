@@ -19,6 +19,16 @@ setting and maintaining co-functionality
 setting and maintaining development environment
 
 
+main process > planning and documenting:
+
+getting and storing the user requirements*
+doing and writing down analysis, problem solving, ux design
+
+main process > testing:
+
+satisfying user requirements*
+proofing the code logic
+
 main process > coding and refactoring:
 
 writting tests
@@ -27,18 +37,6 @@ styling the code
 structuring the code
 enabling logging
 fixing bugs
---others--
-transfering design into code
-
-main process > testing:
-
-satisfying user requirements*
-proofing the code logic
-
-main process > planning and documenting:
-
-getting and storing the user requirements*
-doing and writing down analysis, problem solving
 
 main process > logging:
 

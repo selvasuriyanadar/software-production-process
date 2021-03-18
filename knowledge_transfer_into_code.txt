@@ -1,0 +1,17 @@
+   Writing primitive operations on primitive data types, using storage or
+chaining small processes together for forming continued processes, using logical
+decisions for directing the path of the process, using looping, recursion,
+creating new operations and data structures and using them.
+
+   Making use of algorithms.
+
+   Receiving input and producing output.
+
+   Storage and maintanance of input or cached output data.
+
+   Arithmatics, Boolean Logic, String operations (including regular language
+processing), data storage and operations (variables, lists, dicts, etc).
+
+   Identifying and implementing logical structure to the code (functions,
+classes)
+
