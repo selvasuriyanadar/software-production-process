@@ -10,7 +10,7 @@ main processes:
 planning and documenting*
 testing*
 coding and refactoring
-logging
+logging and exceptions
 debugging
 
 sub processes:
@@ -44,7 +44,7 @@ structuring the code
 enabling logging
 fixing bugs
 
-main process > logging:
+main process > logging and exceptions:
 
 tracking the computing processes
 tracking the application usage

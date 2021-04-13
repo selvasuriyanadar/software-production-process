@@ -15,3 +15,24 @@ processing), data storage and operations (variables, lists, dicts, etc).
    Identifying and implementing logical structure to the code (functions,
 classes)
 
+---------------
+
+functional programming
+object orientation
+code tool box
+data structures and algorithms
+
+---------------
+
+boolean algebra
+arithmatics, geometry, graph, algebra
+formal grammer
+
+information theory
+computaion theory
+graph theory, recursive definitions
+
+statistics
+probability
+machine learning, deep learning, ai
+
