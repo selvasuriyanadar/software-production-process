@@ -1,0 +1,24 @@
+ui - the data type which is a common output/input format of a program
+
+   static ui - un-animated ui
+   ui back bone - a static ui with no graphical design
+
+ui elements - the elements of which a ui is composed of
+
+   view data - text, shape, color, motion, audio, bitmap/icon, image,
+               video, document
+             - any user interpretable file type
+   input element - form, button, check-box, select list, etc
+   input/output element - actionables
+   container - elements that contain other elements
+
+wireframing - a process in which a ui back bone is produced
+   - wireframing initially takes into account IA and IxD from a program
+     centered design perspective.
+   - it initially takes into account UX and IxD from a user centered design
+     perspective.
+IA - information architechture
+UX - user experience
+IxD - ui interaction
+    - is comprised of user interaction and software program interaction
+

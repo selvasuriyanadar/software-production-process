@@ -1,0 +1,115 @@
+---------------
+
+elements of programming:
+
+    zero level:
+        boolean
+
+    base level:
+        state and flow
+
+    secondary level:
+        number
+        string
+
+---------------
+
+boolean:
+
+    boolean algebra
+
+state and flow:
+
+    state:
+        variable, binding
+        block
+        procedure, function
+        class
+        module
+
+    flow:
+        straight
+        conditional
+        loop
+        filter, map, reduce
+        parallel execution
+
+    data-structures and algorithms
+
+string:
+
+    regex
+
+number:
+
+    arithmatics
+
+---------------
+
+variable, binding:
+
+    mutable
+    constant
+
+block:
+
+    scope
+
+procedure, function:
+
+    scope
+    argument passing
+    overloading
+    default arguments
+    return value
+    declaration
+
+class:
+
+    object life cycle
+    getter, setter, static
+    properties(state)
+    methods(change of state)
+    encapsulation
+    polymorphism, overriding, inheritance
+
+module:
+
+---------------
+
+straight:
+
+    scanning
+    execution
+
+conditional:
+
+    if, switch
+
+loop:
+
+    do
+    while
+    for, foreach
+
+filter, map, reduce:
+
+    higher order functions
+
+parallel execution:
+
+    async
+    thread
+
+---------------
+
+data-structures and algorithms:
+
+    string
+    number
+    array, stack, queue
+    dictionary
+    object
+
+---------------
+
