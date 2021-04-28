@@ -1,3 +1,7 @@
+---------------
+
+programming:
+
    Writing primitive operations on primitive data types, using storage or
 chaining small processes together for forming continued processes, using logical
 decisions for directing the path of the process, using looping, recursion,
@@ -17,22 +21,24 @@ classes)
 
 ---------------
 
+programming methods/steps/composition:
+
 functional programming
 object orientation
 code tool box
 data structures and algorithms
 
+-------------
+
+analytical developer suit:
+
+stack
+    language and libraries/frameworks/patterns
+    tools and environment
+
+navari
+    observation and analysis
+    math tooling
+
 ---------------
-
-boolean algebra
-arithmatics, geometry, graph, algebra
-formal grammer
-
-information theory
-computaion theory
-graph theory, recursive definitions
-
-statistics
-probability
-machine learning, deep learning, ai
 

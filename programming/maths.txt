@@ -1,0 +1,18 @@
+-------------
+
+math tooling:
+
+boolean algebra
+arithmatics, geometry, graph, algebra
+formal grammer
+
+information theory
+computaion theory
+graph theory, recursive definitions
+
+statistics
+probability
+machine learning, deep learning, ai
+
+-------------
+

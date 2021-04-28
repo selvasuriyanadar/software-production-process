@@ -1,0 +1,14 @@
+application architecture/environment
+maintaining code developable
+making code production ready
+
+linting
+compiling
+automating
+modularising
+version control
+package management
+unit testing
+end-to-end testing
+configurations/environment variables
+initialisation scripts
